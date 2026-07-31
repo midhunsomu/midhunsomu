@@ -1,12 +1,12 @@
-# <p align="center">Hi there! I'm Midhun S 👋</p>
+# <p align="center">Hey there! I'm Midhun S 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39d353&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Student;Aspiring+Data+Engineer;IBM+Z+Datathon+2024+Winner;Building+Scalable+AI+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Student;Aspiring+Data+Engineer;IBM+Z+Datathon+2024+Winner;Building+Scalable+AI+Pipelines" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   &nbsp;
   <a href="mailto:YOUR-EMAIL@gmail.com">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=midhunsomu&label=Profile%20views&color=0e75b6&style=flat-square" alt="Visitor Counter" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=midhunsomu.midhunsomu&left_color=282a36&right_color=bd93f9" alt="Visitor Badge" />
 </p>
 
 ---
@@ -35,32 +35,25 @@ I am a B.Tech student specializing in Artificial Intelligence and Machine Learni
 
 ## 🛠️ Tech Stack & Toolkit
 
-### 💻 Programming Languages
+### Languages & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,go,rust,nextjs,nestjs,tailwind&theme=dark" alt="Languages and Frameworks" />
+  </a>
 </p>
 
-### 🧠 Artificial Intelligence & Computer Vision
+### AI, ML & Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mysql,mongodb,graphql&theme=dark" alt="AI and Databases" />
+  </a>
 </p>
 
-### ⚙️ Data Engineering & Infrastructure
+### Data Engineering & Cloud
 <p align="left">
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,githubactions&theme=dark" alt="Infra and Cloud" />
+  </a>
 </p>
 
 ---
@@ -93,24 +86,34 @@ I am a B.Tech student specializing in Artificial Intelligence and Machine Learni
 
 ---
 
-## 📜 Certifications & Honors
-* **Winner** - IBM Z Datathon 2024 🏆
-- **Python for Data Science** - Kaggle Certification
-- **Intro to Machine Learning** - Kaggle Certification
-- **Data Engineering Foundations** - Cognitive Class (IBM)
-
----
-
-## 📊 Git Activity & Performance
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=midhunsomu&show_icons=true&theme=tokyonight&hide_border=true" alt="Midhun's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=midhunsomu&show_icons=true&theme=dracula&hide_border=false" alt="Midhun's GitHub Stats" width="48%" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunsomu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunsomu&layout=compact&theme=dracula&hide_border=false&langs_count=6" alt="Top Languages" width="46%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=midhunsomu&theme=tokyonight&hide_border=true&hide_border=true" alt="GitHub Streak Stats" width="96%" />
+  <img src="https://streak-stats.demolab.com?user=midhunsomu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="Streak Stats" width="48%" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-trophy.vercel.app/?username=midhunsomu&theme=dracula&column=3&margin-w=15" alt="Trophy Card" width="48%" />
+</p>
+
+### 👾 Contribution Game (Pacman)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/midhunsomu/midhunsomu/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/midhunsomu/midhunsomu/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/midhunsomu/midhunsomu/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  </picture>
+</p>
+
+---
+
+## 🎵 Spotify Recently Played
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
 </p>
 
 ---
