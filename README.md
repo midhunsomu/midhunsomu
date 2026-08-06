@@ -78,26 +78,22 @@
   <img src="https://raw.githubusercontent.com/midhunsomu/midhunsomu/output/github-contribution-grid-snake.svg" alt="snake animation showing contribution graph" />
 </p>
 
-> ℹ️ This snake animation runs dynamically through a GitHub Actions workflow.
-
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=midhunsomu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=midhunsomu&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=midhunsomu&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunsomu&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=midhunsomu&theme=tokyonight&no-frame=true&row=2&column=3" alt="trophies" height="165"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=midhunsomu&theme=tokyo-night&hide_border=true"
+    width="95%"
+    alt="Contribution Graph"
+  />
 </p>
