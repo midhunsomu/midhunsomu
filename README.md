@@ -1,8 +1,8 @@
 <div align="center">
-  <!-- Glowing Cyberpunk Wave Banner with Holographic Title -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=150&section=header&text=MIDHUN%20S&fontSize=48&fontAlignY=36&animation=twinkling&fontColor=00F0FF" width="100%"/>
+  <!-- Your Animated Discord Banner GIF -->
+  <img src="./assets/Discord Banner Gif.gif" width="100%" alt="MIDHUN S Animated Banner" style="border-radius: 12px; margin-bottom: 15px;" />
 
-  <!-- Live Telemetry Status Badges -->
+  <!-- Live Telemetry Status Badges (No Emojis) -->
   <p align="center">
     <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00F0FF?style=for-the-badge&logo=opsgenie&logoColor=000" />
     <img src="https://img.shields.io/badge/ARCHITECTURE-NEURAL_RAG-7928CA?style=for-the-badge&logo=pytorch&logoColor=fff" />
@@ -23,7 +23,7 @@
 <tr>
 <td width="60%" valign="top">
 
-### ⚡ `> SYSTEM.EXECUTE // IDENTITY_CONFIG`
+### `> SYSTEM.EXECUTE // IDENTITY_CONFIG`
 
 ```ini
 [OPERATOR]
@@ -41,7 +41,7 @@ Security_Lab   = CTF Pwn · Web Exploitation · OSINT · Race Conditions
 Seeking High-Impact Senior / Staff AI Systems & MLOps Engineering Roles
 ```
 
-#### 🌐 SECURE TRANSMISSION LINES:
+#### `> SECURE TRANSMISSION LINES:`
 <p align="left">
   <a href="https://linkedin.com/in/midhunsomu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/midhunsomu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -53,16 +53,16 @@ Seeking High-Impact Senior / Staff AI Systems & MLOps Engineering Roles
 </td>
 
 <td width="40%" align="center" valign="middle">
-  <img src="./assets/445018477002201.gif" width="100%" style="border-radius: 14px; border: 2px solid #00F0FF; box-shadow: 0 0 25px rgba(0, 240, 255, 0.4);" />
+  <img src="./assets/445018477002201.gif" width="100%" style="border-radius: 14px; border: 2px solid #00F0FF;" />
   <br><br>
-  <i><font color="#00F0FF" size="2"><code>[STATUS: SYNAPSE_LINK_ACTIVE]</code></font></i>
+  <code>[STATUS: SYNAPSE_LINK_ACTIVE]</code>
 </td>
 </tr>
 </table>
 
 ---
 
-### 🧠 `> NEURAL_ARCHITECTURE: torch.nn.Module // MidhunS_v2`
+### `> NEURAL_ARCHITECTURE: torch.nn.Module // MidhunS_v2`
 
 ```python
 import torch
@@ -112,14 +112,14 @@ print(model)
 
 <br>
 
-<!-- TECH MATRIX DUAL COLUMNS WITH ANIMATED PROCESSOR GIF -->
+<!-- TECH MATRIX DUAL COLUMNS -->
 <table>
 <tr>
 <td width="65%" valign="top">
 
-#### 🛠️ PRODUCTION TECH MATRIX
+#### `> PRODUCTION TECH MATRIX`
 <p align="left">
-  <b>🧠 Deep Learning & LLM Systems</b><br>
+  <b>Deep Learning & LLM Systems</b><br>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -127,13 +127,13 @@ print(model)
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <br><br>
-  <b>⚡ Vector Search & Storage</b><br>
+  <b>Vector Search & Storage</b><br>
   <img src="https://img.shields.io/badge/ChromaDB-FF4B4B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Weaviate-00D5FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <br><br>
-  <b>☁️ MLOps & Distributed Infrastructure</b><br>
+  <b>MLOps & Distributed Infrastructure</b><br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
@@ -145,7 +145,7 @@ print(model)
 </td>
 
 <td width="35%" align="center" valign="middle">
-  <img src="./assets/15-41-51-373_512.gif" width="95%" style="border-radius: 12px; border: 2px solid rgba(0, 240, 255, 0.4); box-shadow: 0 0 20px rgba(0, 240, 255, 0.2);" />
+  <img src="./assets/15-41-51-373_512.gif" width="95%" style="border-radius: 12px; border: 2px solid rgba(0, 240, 255, 0.4);" />
   <br><br>
   <code>[GPU_UTIL: 99.4% · TENSOR_CORES: ON]</code>
 </td>
@@ -154,7 +154,7 @@ print(model)
 
 ---
 
-### 🚀 `> BENCHMARK // FEATURED PRODUCTION ARCHITECTURES`
+### `> BENCHMARK // FEATURED PRODUCTION ARCHITECTURES`
 
 <table>
 <tr>
@@ -225,36 +225,45 @@ Dual-engine streaming feature store: in-memory Redis cluster for ultra-low laten
 </table>
 
 <details>
-<summary><b>⚙️ Expand Engineering Manifesto & System Design Heuristics</b></summary>
+<summary><b>Expand Engineering Manifesto & System Design Heuristics</b></summary>
 <br>
 <blockquote>
-✦ <b>Rule #1:</b> <i>Data Quality > Parameter Count.</i> A well-chunked, hygienically-indexed RAG vector store outstrips uncurated trillion-token pretraining every single time.<br>
-✦ <b>Rule #2:</b> <i>Security is an Architectural Primitive.</i> RBAC, vector filtering, and guardrails must live in the retrieval logic, not as fragile prompt-level patches.<br>
-✦ <b>Rule #3:</b> <i>If It Isn't Monitored, It Isn't in Production.</i> Real-time tracking of embedding drift, P99 token latency, and hallucination rates are mission-critical.
+1. <b>Rule #1:</b> <i>Data Quality > Parameter Count.</i> A well-chunked, hygienically-indexed RAG vector store outstrips uncurated trillion-token pretraining every single time.<br>
+2. <b>Rule #2:</b> <i>Security is an Architectural Primitive.</i> RBAC, vector filtering, and guardrails must live in the retrieval logic, not as fragile prompt-level patches.<br>
+3. <b>Rule #3:</b> <i>If It Isn't Monitored, It Isn't in Production.</i> Real-time tracking of embedding drift, P99 token latency, and hallucination rates are mission-critical.
 </blockquote>
 </details>
 
 ---
 
-### 📊 `> NEURAL_ACTIVITY // TELEMETRY DASHBOARD`
+### `> NEURAL_ACTIVITY // TELEMETRY DASHBOARD`
 
 <div align="center">
-  <!-- Dynamic Neural Network Wave GIF -->
-  <img src="./assets/juliush-artificial-intelligence-5829.gif" alt="AI Neural Activity" width="100%" style="border-radius: 12px; margin-bottom: 22px; max-height: 270px; object-fit: cover; border: 1px solid rgba(0, 240, 255, 0.35); box-shadow: 0 0 25px rgba(0, 240, 255, 0.2);" />
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=midhunsomu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=midhunsomu&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunsomu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
-  </p>
+  <!-- Clean Animated Neural Network Wave Banner -->
+  <img src="./assets/juliush-artificial-intelligence-5829.gif" alt="AI Neural Activity" width="100%" style="border-radius: 12px; margin-bottom: 25px; max-height: 250px; object-fit: cover; border: 1px solid #e1e4e8;" />
 </div>
+
+<!-- Perfectly Aligned Light Theme Automated Stats Grid -->
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center" valign="middle">
+  <img src="https://github-readme-stats.vercel.app/api?username=midhunsomu&show_icons=true&theme=default&hide_border=false&cache_seconds=1800" width="100%" alt="GitHub Stats" />
+</td>
+<td width="50%" align="center" valign="middle">
+  <img src="https://streak-stats.demolab.com?user=midhunsomu&theme=default&hide_border=false" width="100%" alt="GitHub Streak" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="middle">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunsomu&layout=compact&theme=default&hide_border=false&cache_seconds=1800" width="65%" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
   <i>"Building systems that scale, learn, and secure the future."</i><br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=100&section=footer" width="100%"/>
+  <!-- Tenor footer animation -->
+  <img src="./assets/tenor.gif" width="100%" style="border-radius: 10px; max-height: 180px; object-fit: cover;" alt="Footer Animation" />
 </div>
