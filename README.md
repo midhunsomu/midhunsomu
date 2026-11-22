@@ -239,8 +239,8 @@ Dual-engine streaming feature store: in-memory Redis cluster for ultra-low laten
 ### `> NEURAL_ACTIVITY // TELEMETRY DASHBOARD`
 
 <div align="center">
-  <!-- Wide Horizontal Rectangle Neural Activity Banner -->
-  <img src="./assets/neural-activity-banner.gif" alt="AI Neural Activity" width="100%" style="border-radius: 12px; margin-bottom: 25px; border: 1px solid #e1e4e8;" />
+  <!-- Mechanical Cyber Eye Banner Centered on the Eye -->
+  <img src="./assets/cyber-eye-banner.gif" alt="AI Vision Core" width="100%" style="border-radius: 12px; margin-bottom: 25px; border: 1px solid #e1e4e8;" />
 </div>
 
 <!-- Perfectly Aligned Light Theme Automated Stats Grid -->
