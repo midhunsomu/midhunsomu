@@ -1,6 +1,9 @@
 <div align="center">
-  <!-- Wooden Board Neon Logo -->
-  <img src="./assets/wooden-board-neon.png" width="460" alt="MIDHUN S Wooden Board" style="border-radius: 10px; margin-bottom: 15px;" />
+  <!-- Your Animated Discord Banner GIF (Restored) -->
+  <img src="./assets/Discord Banner Gif.gif" width="100%" alt="MIDHUN S Animated Banner" style="border-radius: 12px; margin-bottom: 18px;" />
+
+  <!-- Wooden Board Plate with Black Background -->
+  <img src="./assets/wooden-board-black-bg.png" width="460" alt="MIDHUN S Wooden Board" style="border-radius: 10px; margin-bottom: 15px;" />
 
   <br>
 
