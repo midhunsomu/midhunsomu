@@ -1,19 +1,23 @@
 <div align="center">
-  <!-- Your Animated Discord Banner GIF -->
-  <img src="./assets/Discord Banner Gif.gif" width="100%" alt="MIDHUN S Animated Banner" style="border-radius: 12px; margin-bottom: 15px;" />
+  <!-- Wooden Board Neon Logo -->
+  <img src="./assets/wooden-board-neon.png" width="460" alt="MIDHUN S Wooden Board" style="border-radius: 10px; margin-bottom: 15px;" />
 
-  <!-- Live Telemetry Status Badges (No Emojis) -->
+  <br>
+
+  <!-- High-Contrast Vibrant Orange Typing Animation (Optimized for both White & Black themes) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=1000&color=FF6F00&center=true&vCenter=true&width=700&height=40&lines=%3E_model+%3D+MidhunS(weights%3D'production-rag-v4')%3B;%3E_optimizing+retrieval+latency+below+85ms%3B;%3E_monitoring+drift+on+streaming+feature+stores%3B;%3E_solving+cryptanalysis+%26+web+exploit+CTFs%3B" alt="Typing SVG" />
+  </a>
+
+  <br><br>
+
+  <!-- Live Telemetry Status Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00F0FF?style=for-the-badge&logo=opsgenie&logoColor=000" />
+    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-FF6F00?style=for-the-badge&logo=opsgenie&logoColor=000" />
     <img src="https://img.shields.io/badge/ARCHITECTURE-NEURAL_RAG-7928CA?style=for-the-badge&logo=pytorch&logoColor=fff" />
     <img src="https://img.shields.io/badge/SECURITY-CTF_OPERATOR-FF0055?style=for-the-badge&logo=hackthebox&logoColor=fff" />
     <img src="https://img.shields.io/badge/LOCATION-INDIA-00D5FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
   </p>
-
-  <!-- Real-Time Monospace Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&height=40&lines=%3E_model+%3D+MidhunS(weights%3D'production-rag-v4')%3B;%3E_optimizing+retrieval+latency+below+85ms%3B;%3E_monitoring+drift+on+streaming+feature+stores%3B;%3E_solving+cryptanalysis+%26+web+exploit+CTFs%3B" alt="Typing SVG" />
-  </a>
 </div>
 
 <br>
@@ -165,21 +169,6 @@ print(model)
 
 <tr>
 <td>
-<b><a href="https://github.com/midhunsomu/DocIntel">DocIntel</a></b><br>
-<sub>Enterprise RBAC-RAG Core</sub>
-</td>
-<td>
-Integrated role-based access tokens directly into dense vector indexing space. Ensures multi-tenant isolation, eliminating cross-department data leaks in LLM responses.
-</td>
-<td>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-FF4B4B?style=flat-square" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-</td>
-</tr>
-
-<tr>
-<td>
 <b><a href="https://github.com/midhunsomu/Airflow_LLM_RAG_Finance">Airflow_LLM_RAG_Finance</a></b><br>
 <sub>Streaming Financial RAG DAG</sub>
 </td>
@@ -236,7 +225,7 @@ Dual-engine streaming feature store: in-memory Redis cluster for ultra-low laten
 
 ---
 
-### `> NEURAL_ACTIVITY // TELEMETRY DASHBOARD`
+### `> NEURAL_VISION // TELEMETRY DASHBOARD`
 
 <div align="center">
   <!-- Mechanical Cyber Eye Banner Centered on the Eye -->
