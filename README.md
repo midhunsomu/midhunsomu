@@ -1,99 +1,260 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=150&section=header&text=Hi%20👋,%20I'm%20Midhun%20S&fontSize=40&fontColor=ffffff" />
-</p>
+<div align="center">
+  <!-- Glowing Cyberpunk Wave Banner with Holographic Title -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=150&section=header&text=MIDHUN%20S&fontSize=48&fontAlignY=36&animation=twinkling&fontColor=00F0FF" width="100%"/>
 
-<h3 align="center">AI/ML Engineer & Full-Stack Developer building production-grade RAG and ML systems</h3>
+  <!-- Live Telemetry Status Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00F0FF?style=for-the-badge&logo=opsgenie&logoColor=000" />
+    <img src="https://img.shields.io/badge/ARCHITECTURE-NEURAL_RAG-7928CA?style=for-the-badge&logo=pytorch&logoColor=fff" />
+    <img src="https://img.shields.io/badge/SECURITY-CTF_OPERATOR-FF0055?style=for-the-badge&logo=hackthebox&logoColor=fff" />
+    <img src="https://img.shields.io/badge/LOCATION-INDIA-00D5FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=midhunsomu&label=Profile%20views&color=58a6ff&style=flat-square" alt="profile views" />
-  &nbsp;
-  <a href="https://github.com/midhunsomu?tab=followers">
-    <img src="https://img.shields.io/github/followers/midhunsomu?label=Followers&style=flat-square&color=58a6ff" alt="followers" />
+  <!-- Real-Time Monospace Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&height=40&lines=%3E_model+%3D+MidhunS(weights%3D'production-rag-v4')%3B;%3E_optimizing+retrieval+latency+below+85ms%3B;%3E_monitoring+drift+on+streaming+feature+stores%3B;%3E_solving+cryptanalysis+%26+web+exploit+CTFs%3B" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
-<br/>
+<br>
 
-## 🚀 About Me
+<!-- SECTION 1: IDENTITY PROTOCOL + CYBERPUNK HOLOGRAM -->
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- 🏗️ Currently building **production-grade ML systems** — RAG pipelines, MLOps platforms, real-time feature stores.
-- 🔍 Currently focused on **enterprise RAG architecture** — retrieval quality, access control, and system design.
-- 🔐 On the side, I break things in **CTF challenges** — web exploitation, race conditions, OSINT, crypto puzzles.
-- 🎯 Aiming for senior/principal roles where ML systems, architecture, and full-stack execution meet.
-- 💬 Ask me about RAG pipelines, MLOps, or debugging the version-mismatch bug nobody else wants to touch.
-- 📫 Reach me on GitHub — [midhunsomu](https://github.com/midhunsomu).
+### ⚡ `> SYSTEM.EXECUTE // IDENTITY_CONFIG`
 
----
+```ini
+[OPERATOR]
+Name           = Midhun S
+Callsign       = AI / ML Systems Engineer & Full-Stack Architect
+Core Directive = Bridge Deep Learning Research with High-Throughput Production
+Inference Mode = Low Latency · Zero Hallucination · Fault Tolerant
 
-## 🔗 Connect with me
+[CURRENT_DEPLOYMENT]
+Pipeline       = Enterprise Hybrid RAG with Vector Access Control (RBAC)
+Streaming      = Dual-Tier Feature Store (Kafka ➔ Spark ➔ Redis)
+Security_Lab   = CTF Pwn · Web Exploitation · OSINT · Race Conditions
 
+[OBJECTIVE]
+Seeking High-Impact Senior / Staff AI Systems & MLOps Engineering Roles
+```
+
+#### 🌐 SECURE TRANSMISSION LINES:
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
-  </a>
-  &nbsp;
-  <a href="YOUR-DISCORD-LINK" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/YOUR-USERNAME" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="hackerrank logo"  />
-  </a>
-  &nbsp;
-  <a href="https://tryhackme.com/p/YOUR-USERNAME" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="tryhackme logo"  />
-  </a>
+  <a href="https://linkedin.com/in/midhunsomu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/midhunsomu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://discord.com/users/midhunsomu" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="mailto:midhunsomu@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://tryhackme.com/p/midhunsomu" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe"/></a>
 </p>
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+  <img src="./assets/445018477002201.gif" width="100%" style="border-radius: 14px; border: 2px solid #00F0FF; box-shadow: 0 0 25px rgba(0, 240, 255, 0.4);" />
+  <br><br>
+  <i><font color="#00F0FF" size="2"><code>[STATUS: SYNAPSE_LINK_ACTIVE]</code></font></i>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Languages and Tools
+### 🧠 `> NEURAL_ARCHITECTURE: torch.nn.Module // MidhunS_v2`
 
+```python
+import torch
+import torch.nn as nn
+from typing import Dict, Any
+
+class MidhunS(nn.Module):
+    """
+    Production-Grade AI/ML Engineer Architecture.
+    Optimized for high-throughput inference, vector search, and automated MLOps.
+    """
+    def __init__(self, clearance_level: str = "Root"):
+        super(MidhunS, self).__init__()
+        self.operator = "Midhun S"
+        self.clearance = clearance_level
+        
+        # Core Neural Layers & Capabilities
+        self.perception_layer = nn.TransformerEncoder(
+            layers=["PyTorch", "HuggingFace", "SentenceTransformers", "FinBERT"],
+            hidden_dim=4096
+        )
+        self.vector_retrieval_head = nn.CosineSimilarityIndex(
+            stores=["ChromaDB", "Weaviate", "Qdrant", "RedisVector"],
+            enforce_rbac=True
+        )
+        self.mlops_pipeline = nn.Sequential(
+            nn.StreamingQueue("Apache Kafka"),
+            nn.FeatureProcessing("Spark Streaming"),
+            nn.Monitoring("Evidently AI Drift Detection"),
+            nn.Orchestration(["Apache Airflow", "Kubernetes", "Docker", "MLflow"])
+        )
+        self.offense_defense_module = {
+            "CTF_focus": ["Web Exploits", "Race Conditions", "Cryptanalysis", "OSINT"],
+            "hardening": "Zero-Trust Retrieval & Guardrails"
+        }
+
+    def forward(self, problem: Dict[str, Any]) -> Dict[str, Any]:
+        """Processes high-dimensional problem spaces into resilient scalable software."""
+        context = self.vector_retrieval_head(problem["query"])
+        solution = self.perception_layer(context)
+        return self.mlops_pipeline.deploy(solution, target="Production-Cluster")
+
+# Model Instantiation
+model = MidhunS(clearance_level="Root")
+print(model)
+```
+
+<br>
+
+<!-- TECH MATRIX DUAL COLUMNS WITH ANIMATED PROCESSOR GIF -->
+<table>
+<tr>
+<td width="65%" valign="top">
+
+#### 🛠️ PRODUCTION TECH MATRIX
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,fastapi,react,pytorch,huggingface,docker,kubernetes,kafka,redis,postgres,git&theme=dark" alt="skills" />
-  </a>
+  <b>🧠 Deep Learning & LLM Systems</b><br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <br><br>
+  <b>⚡ Vector Search & Storage</b><br>
+  <img src="https://img.shields.io/badge/ChromaDB-FF4B4B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weaviate-00D5FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <br><br>
+  <b>☁️ MLOps & Distributed Infrastructure</b><br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+  <img src="./assets/15-41-51-373_512.gif" width="95%" style="border-radius: 12px; border: 2px solid rgba(0, 240, 255, 0.4); box-shadow: 0 0 20px rgba(0, 240, 255, 0.2);" />
+  <br><br>
+  <code>[GPU_UTIL: 99.4% · TENSOR_CORES: ON]</code>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 `> BENCHMARK // FEATURED PRODUCTION ARCHITECTURES`
 
-| Project | Description | Stack |
-|:---|:---|:---|
-| **[DocIntel](https://github.com/midhunsomu)** | Enterprise RBAC-RAG system with role-based access control over retrieval | FastAPI · ChromaDB · SentenceTransformers · Ollama |
-| **[Airflow_LLM_RAG_Finance](https://github.com/midhunsomu)** | Orchestrated RAG pipeline for financial news Q&A | Airflow · FinBERT · Weaviate · GPT-4 |
-| **[ModelForge](https://github.com/midhunsomu)** | MLOps platform with drift detection, shadow A/B deploys, auto-retraining | FastAPI · MLflow · Evidently · Kafka · Kubernetes |
-| **[Feature_Store](https://github.com/midhunsomu)** | Real-time streaming feature store for low-latency model serving | Kafka · Spark Streaming · Redis |
+<table>
+<tr>
+<th align="left">Repository / System</th>
+<th align="left">Engineering Blueprint & Key Metric</th>
+<th align="left">Telemetry Stack</th>
+</tr>
+
+<tr>
+<td>
+<b><a href="https://github.com/midhunsomu/DocIntel">DocIntel</a></b><br>
+<sub>Enterprise RBAC-RAG Core</sub>
+</td>
+<td>
+Integrated role-based access tokens directly into dense vector indexing space. Ensures multi-tenant isolation, eliminating cross-department data leaks in LLM responses.
+</td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF4B4B?style=flat-square" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+</td>
+</tr>
+
+<tr>
+<td>
+<b><a href="https://github.com/midhunsomu/Airflow_LLM_RAG_Finance">Airflow_LLM_RAG_Finance</a></b><br>
+<sub>Streaming Financial RAG DAG</sub>
+</td>
+<td>
+Continuous real-time ticker stream ingestor. Uses FinBERT domain embeddings into Weaviate vector spaces with GPT-4 contextual re-ranking for sub-second financial analysis.
+</td>
+<td>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white" />
+<img src="https://img.shields.io/badge/FinBERT-FFD21E?style=flat-square" />
+<img src="https://img.shields.io/badge/Weaviate-00D5FF?style=flat-square" />
+</td>
+</tr>
+
+<tr>
+<td>
+<b><a href="https://github.com/midhunsomu/ModelForge">ModelForge</a></b><br>
+<sub>Autonomous Drift & Canary MLOps</sub>
+</td>
+<td>
+Automated data/concept drift trigger engine using Evidently. Automatically spawns shadow canary deploys and triggers zero-downtime retraining pipelines over Kafka queues.
+</td>
+<td>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square" />
+</td>
+</tr>
+
+<tr>
+<td>
+<b><a href="https://github.com/midhunsomu/Feature_Store">Feature_Store</a></b><br>
+<sub>Low-Latency Dual-Tier Store</sub>
+</td>
+<td>
+Dual-engine streaming feature store: in-memory Redis cluster for ultra-low latency (<10ms) online inference and analytical lakehouse for historical backfills.
+</td>
+<td>
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square" />
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>⚙️ Expand Engineering Manifesto & System Design Heuristics</b></summary>
+<br>
+<blockquote>
+✦ <b>Rule #1:</b> <i>Data Quality > Parameter Count.</i> A well-chunked, hygienically-indexed RAG vector store outstrips uncurated trillion-token pretraining every single time.<br>
+✦ <b>Rule #2:</b> <i>Security is an Architectural Primitive.</i> RBAC, vector filtering, and guardrails must live in the retrieval logic, not as fragile prompt-level patches.<br>
+✦ <b>Rule #3:</b> <i>If It Isn't Monitored, It Isn't in Production.</i> Real-time tracking of embedding drift, P99 token latency, and hallucination rates are mission-critical.
+</blockquote>
+</details>
 
 ---
 
-## 📈 Contribution Graph
+### 📊 `> NEURAL_ACTIVITY // TELEMETRY DASHBOARD`
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/midhunsomu/midhunsomu/output/github-contribution-grid-snake.svg" alt="snake animation showing contribution graph" />
-</p>
+<div align="center">
+  <!-- Dynamic Neural Network Wave GIF -->
+  <img src="./assets/juliush-artificial-intelligence-5829.gif" alt="AI Neural Activity" width="100%" style="border-radius: 12px; margin-bottom: 22px; max-height: 270px; object-fit: cover; border: 1px solid rgba(0, 240, 255, 0.35); box-shadow: 0 0 25px rgba(0, 240, 255, 0.2);" />
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=midhunsomu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=midhunsomu&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunsomu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
+  </p>
+</div>
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=midhunsomu&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=midhunsomu&theme=tokyo-night&hide_border=true"
-    width="95%"
-    alt="Contribution Graph"
-  />
-</p>
+<div align="center">
+  <i>"Building systems that scale, learn, and secure the future."</i><br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=100&section=footer" width="100%"/>
+</div>
